@@ -109,7 +109,7 @@ Each follow-up is generated with two unique versions (A/B), giving users flexibl
 
 <img width="777" height="870" alt="Cold Call Script - Adv" src="https://github.com/user-attachments/assets/34a410d0-95ca-43e5-a449-e55abc00fb08" />
 
-This tool generates customized cold call scripts designed to grab attention, build rapport, and communicate value—quickly and effectively. In Advanced Mode, users can specify:
+This tool generates customized cold call scripts designed to grab attention, build rapport, and communicate value quickly and effectively. In Advanced Mode, users can specify:
 
 Context for the Call (e.g., prospect’s current challenges or pain points)
 
